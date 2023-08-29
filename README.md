@@ -39,11 +39,7 @@ The following steps were taken to build a model for this problem:
 
 ## Files
 
-- `EDA.ipynb`: Notebook containing exploratory data analysis
-- `data_preprocessing.py`: Functions for cleaning and preprocessing text data
-- `feature_engineering.py`: Functions to extract features from text pairs 
-- `modeling.py`: Model training, evaluation, and tuning code
-- `model_blend.py`: Stacking and blending models for ensembling
+- `qqp.py`: This is the file with all the code.
 - `README.md`: This file
 
 The other files contain data, intermediate outputs, etc.
